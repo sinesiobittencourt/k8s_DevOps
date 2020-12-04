@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # Minikube update script file
+# https://labs.play-with-k8s.com/
 
 minikube delete && \ 
 sudo rm -rf /usr/local/bin/minikube && \ 
